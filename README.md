@@ -1,5 +1,5 @@
 # Yelp-Reviews Analysis
-Link to downlaod the dataset: https://business.yelp.com/data/resources/open-dataset/
+Link to download the dataset: https://business.yelp.com/data/resources/open-dataset/
 Analyzed a large dataset of 5GB containing 7 million reviews across various businesses using SQL, Snowflake, and Python!
 
 🔄 Workflow Overview:
